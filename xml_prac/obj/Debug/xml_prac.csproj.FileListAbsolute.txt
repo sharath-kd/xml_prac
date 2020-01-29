@@ -1,0 +1,9 @@
+C:\Users\Sharath\source\repos\xml_prac\bin\Debug\xml_prac.exe.config
+C:\Users\Sharath\source\repos\xml_prac\bin\Debug\xml_prac.exe
+C:\Users\Sharath\source\repos\xml_prac\bin\Debug\xml_prac.pdb
+C:\Users\Sharath\source\repos\xml_prac\obj\Debug\xml_prac.csprojAssemblyReference.cache
+C:\Users\Sharath\source\repos\xml_prac\obj\Debug\xml_prac.Form1.resources
+C:\Users\Sharath\source\repos\xml_prac\obj\Debug\xml_prac.Properties.Resources.resources
+C:\Users\Sharath\source\repos\xml_prac\obj\Debug\xml_prac.csproj.GenerateResource.cache
+C:\Users\Sharath\source\repos\xml_prac\obj\Debug\xml_prac.exe
+C:\Users\Sharath\source\repos\xml_prac\obj\Debug\xml_prac.pdb
